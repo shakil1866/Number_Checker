@@ -16,7 +16,7 @@ let main_click = () => {
         result.textContent = "Its a Positive value ";
 
     } else if (inputMain < 0) {
-        result.textContent = "Its a Positive value ";
+        result.textContent = "Its a Nagetive value ";
 
     } else {
         result.textContent = "not a number"
